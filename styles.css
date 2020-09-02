@@ -5,7 +5,7 @@ body {
     margin: 15px 25px 45px 25px;
     letter-spacing: 3px;
     background-image: linear-gradient(lightgreen,lightblue);
-    font-family: 'Liu Jian Mao Cao', cursive;
+    font-family: "Shadows Into Light";
 }
 h1 {
     text-align: center;
@@ -19,11 +19,13 @@ h2 {
 p {
     text-align: left;
     font-size: 2rem;
-
 }
 ul {
     text-align: left;
     text-decoration: none;
+}
+li {
+    font-size: 1.5rem;
 }
 iframe {
     margin: 15px 33%;
